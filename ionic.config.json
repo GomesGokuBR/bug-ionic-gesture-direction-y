@@ -1,5 +1,7 @@
 {
   "name": "1_DEMO_BUG_IONIC_GESTURE",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
